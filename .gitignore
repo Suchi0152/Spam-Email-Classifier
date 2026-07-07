@@ -1,0 +1,19 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Model files (optional)
+*.pkl
+
+# NLTK files
+nltk_data/
+
+# Streamlit
+.streamlit/
+
+# System files
+.DS_Store
